@@ -83,12 +83,12 @@ const chandraShekhar = {
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,firebase,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,firebase" />
 </p>
 
 ### ☁️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,linux,jest" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman" />
 </p>
 
 ---
