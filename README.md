@@ -143,7 +143,7 @@ const chandraShekhar = {
 
 [![Gmail](https://img.shields.io/badge/Gmail-csyadav02002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csyadav02002@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Iam--csy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iam-csy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-shekhar-yadav-069819319)
 
 </div>
 
