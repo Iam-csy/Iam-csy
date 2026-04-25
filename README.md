@@ -30,7 +30,7 @@ const chandraShekhar = {
   currentlyBuilding: "Real-time Chat App (MERN + Socket.IO)",
   learning:   ["DSA", "System Design", "Advanced React"],
   lookingFor: "Collaboration on Full Stack Web Projects",
-  funFact:    "I turn caffeine ☕ into scalable apps 💡",
+ 
   reachMe:    "csyadav02002@gmail.com",
 };
 ```
@@ -48,7 +48,7 @@ const chandraShekhar = {
   <tr>
     <td>🌱</td>
     <td><b>Learning</b></td>
-    <td>DSA · System Design · Advanced React</td>
+    <td>DSA · Advanced React</td>
   </tr>
   <tr>
     <td>👯</td>
@@ -78,17 +78,17 @@ const chandraShekhar = {
 
 ### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,redux,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,redux,tailwind" />
 </p>
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis" />
 </p>
 
 ### ☁️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
 
 ---
@@ -129,13 +129,8 @@ const chandraShekhar = {
 
 ```
 [ ] Complete Real-time Chat App with MERN + Socket.IO
-[ ] Solve 500+ LeetCode problems
-[ ] Master System Design fundamentals
-[ ] Contribute to 5+ open-source projects
-[ ] Land a Full Stack Developer role at a product company
-```
+[ ] Solve 200+ LeetCode problems
 
----
 
 ## 🤝 Let's Connect
 
