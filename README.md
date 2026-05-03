@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chandra%20Shekhar%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20System%20Design%20Enthusiast&descAlignY=60&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chandra%20Shekhar%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20%20%20&descAlignY=60&descSize=16" />
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+CSY+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Socket.IO+%7C+Docker;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+CSY+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C++%7C+;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
@@ -55,11 +55,7 @@ const chandraShekhar = {
     <td><b>Collaborating on</b></td>
     <td>Full Stack Web Projects (React + Node.js)</td>
   </tr>
-  <tr>
-    <td>🤝</td>
-    <td><b>Seeking help with</b></td>
-    <td>System Design & Scalable Backend Architecture</td>
-  </tr>
+  
   <tr>
     <td>💬</td>
     <td><b>Ask me about</b></td>
