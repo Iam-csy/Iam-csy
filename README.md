@@ -27,8 +27,8 @@ const chandraShekhar = {
   location:   "India 🇮🇳",
   role:       "Full Stack Developer",
   focus:      ["MERN Stack", "System Design", "Scalable Backends"],
-  currentlyBuilding: "Real-time Chat App (MERN + Socket.I)",
-  learning:   ["DSA", "System Design", "Advanced React"],
+  currentlyBuilding: "Ai travelPlanner",
+  learning:   ["DSA", "System Design", "GEN-AI"],
   lookingFor: "Collaboration on Full Stack Web Projects",
  
   reachMe:    "csyadav02002@gmail.com",
